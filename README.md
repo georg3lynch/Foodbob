@@ -1,2 +1,0 @@
-# Foodbob
-Calorie Counter App
